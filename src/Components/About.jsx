@@ -24,19 +24,20 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Cyber Security student studying at Shri Shankaracharya Technical Campus. I secure applications in order to make them more robust and user safe. I also have various community positions, some stated above like Postman Student Leader, Keploy Fellow, Zuno Campus Ambassador";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web App Pentesting",
+  "Python",
+  "OWASP TOP 10 Web",
+  "Linux Privilege Escalation",
+  "Web Development",
+  "API specialist",
+  "Some graphic design too!",
 ];
 
 /**
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems and keeping hackers at bay by implementing new & better security measures to keep the application packed with the latest and best security practices. By leveraging my security experience, I continually look out for new and better ways to make tech secure to be used by everyone.";
 
 const About = () => {
   return (
